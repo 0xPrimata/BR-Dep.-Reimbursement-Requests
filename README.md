@@ -8,3 +8,5 @@ expense justification with one of three classes: left wing, center, and right po
 After that, we applied a Deep Neural Network (DNN) which performed worse than the RandomForestClassifier. It came as a surprise which since DNN are known for performing better
 than any other Machine Learning Model.
 Further Investigation will be done and updates will follow.
+
+We also used a too large file for github which is available in the following link: https://brasil.io/dataset/gastos-deputados/cota_parlamentar/
